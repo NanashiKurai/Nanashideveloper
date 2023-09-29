@@ -73,15 +73,3 @@ body {
 
 /*-------------------------------------------*/
 
-footer {
-  text-align: center;
-  padding: 80px;
-  background-color: #eeeeee;
-  color: rgb(22, 22, 22);
-}
-
-footer h3 {
-  color: rgb(58, 58, 58);
-  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-  
-}
